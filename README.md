@@ -1,4 +1,6 @@
-# facebook-crack``` CARA PEMASANGAN : ```
+# facebook-crack
+
+``` CARA PEMASANGAN : ```
 
 $``` pkg update && pkg upgrade```
 
@@ -6,8 +8,8 @@ $``` pkg install requests```
 
 $``` pkg install rich```
 
-$``` git clone https://github.com/XytaId/dump-noob```
+$``` https://github.com/XytaId/facebook-crack```
 
-$``` cd facebok```
+$``` cd facebook```
 
-$``` python nooob.
+$``` python facebook. py```
