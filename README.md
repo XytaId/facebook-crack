@@ -10,6 +10,6 @@ $``` pkg install rich```
 
 $``` https://github.com/XytaId/facebook-crack```
 
-$``` cd facebook```
+$``` cd facebook-crack```
 
-$``` python facebook. py```
+$``` python facebok. py```
